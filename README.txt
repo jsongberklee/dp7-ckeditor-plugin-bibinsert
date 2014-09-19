@@ -13,11 +13,11 @@ Note, this plugin only works for CKeditor version 3.x
 
 1. go to the field formatter setting of any text field with CKeditor is activated and select "BIB Rendered In Text field" format.
 
-1. From the Ckeditor window, click the plugin button.
+2. From the Ckeditor window, click the plugin button.
 
-2. type in the Bib number you wish to display and click "OK" button. Use comma(,) for multiple item numbers.
+3. type in the Bib number you wish to display and click "OK" button. Use comma(,) for multiple item numbers.
 
-3. Save the node, the actual rendering will display on the view page.
+4. Save the node, the actual rendering will display on the view page.
 
 
 
